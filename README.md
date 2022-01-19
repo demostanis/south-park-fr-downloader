@@ -1,6 +1,8 @@
 # south-park-fr-downloader
 Script to download South Park episodes from south-park-tv.biz
 
+![Screenshot](screenshot.png)
+
 ### Usage
 ```
  $ ruby main.rb [SELECTION]
